@@ -1,5 +1,7 @@
 # Hello there
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiedleroD&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I have
 
 - a [website](https://riedler.wien) with an [index](https://riedler.wien/coding/) for my projects.
