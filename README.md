@@ -1,6 +1,11 @@
 # Hello there
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiedleroD&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RiedleroD&theme=dracula&show_icons=true&disable_animations=true&hide_border=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiedleroD&theme=dracula&layout=compact&langs_count=8&hide_border=true"/>
+</a>
 
 ## I have
 
