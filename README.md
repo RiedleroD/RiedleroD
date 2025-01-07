@@ -1,5 +1,7 @@
 # Hello there
 
+I'm migrating a lot of my stuff to [Codeberg](https://codeberg.org/Riedler/), so these statistics aren't 100% representative.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiedleroD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RiedleroD&count_private=true&theme=dracula&show_icons=true&disable_animations=true&hide_border=true"/>
