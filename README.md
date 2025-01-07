@@ -10,15 +10,10 @@ I'm migrating a lot of my stuff to [Codeberg](https://codeberg.org/Riedler/), so
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiedleroD&theme=dracula&layout=compact&langs_count=8&hide_border=true"/>
 </a>
 
-## I have
+Take a look at my [website](https://riedler.wien) if you'd like to ^^
 
-- a [website](https://riedler.wien) with an [index](https://riedler.wien/coding/) for my projects.
-- a liberapay account: [![liberapay](https://img.shields.io/liberapay/receives/Riedler.svg?logo=liberapay)](https://liberapay.com/Riedler/donate)
+## Donations - every little bit helps!
 
-## I want
-
-- you to look around
-
-## I need
-
-- some time to respond though
+- liberapay: [![support me on liberapay](https://img.shields.io/liberapay/receives/Riedler.svg?logo=liberapay)](https://liberapay.com/Riedler/donate)
+- ko-fi: [![support me on ko-fi](https://img.shields.io/badge/buy_me_a_coffee-grey?logo=kofi&logoColor=white&labelColor=%23FF6433)](https://ko-fi.com/B0B8G5NRP)
+- github: [![support me on github](https://img.shields.io/github/sponsors/RiedleroD?logo=github&logoColor=white)](https://github.com/sponsors/RiedleroD)
