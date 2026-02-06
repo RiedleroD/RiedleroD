@@ -1,16 +1,12 @@
 # Hello there
 
-I'm migrating a lot of my stuff to [Codeberg](https://codeberg.org/Riedler/), so these statistics aren't 100% representative.
+in case you're interested in some statistics:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RiedleroD&theme=onedark&no-frame=true&margin-w=4&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RiedleroD&count_private=true&theme=dracula&show_icons=true&disable_animations=true&hide_border=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiedleroD&theme=dracula&layout=compact&langs_count=8&hide_border=true"/>
-</a>
+<img width="33%" alt="coding stats 1" src="https://codeberg.org/Riedler/codestats/raw/branch/my-configs/out.svg"/>
 
-Take a look at my [website](https://riedler.wien) if you'd like to ^^
+<img width="50%" alt="coding stats 2" src="https://codeberg.org/Riedler/codestats/raw/branch/my-configs/out1.svg"/><img width="50%" alt="coding stats 3" src="https://codeberg.org/Riedler/codestats/raw/branch/my-configs/out2.svg"/>
+
+Also come take a look at my [website](https://riedler.wien) if you'd like to ^^
 
 ## Donations - every little bit helps!
 
