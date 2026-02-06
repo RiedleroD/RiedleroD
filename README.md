@@ -1,5 +1,7 @@
 # Hello there
 
+I'm currently migrating to [Codeberg](https://codeberg.org/Riedler). You can find most of my recent stuff there!
+
 in case you're interested in some statistics:
 
 <img width="33%" alt="coding stats 1" src="https://codeberg.org/Riedler/codestats/raw/branch/my-configs/out.svg"/>
